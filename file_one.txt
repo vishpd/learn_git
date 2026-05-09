@@ -1,3 +1,4 @@
 hello world! how its going
 wow world
 what in the world is this shit, what the fuck is happening here?
+there is a fourth line that's been added here in file one. 
