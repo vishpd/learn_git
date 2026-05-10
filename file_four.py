@@ -6,3 +6,5 @@ x = list(range(0,10))
 for i in x:
   if i % 2 == 0:
     print(i + 2)
+
+y = 12 + 15
